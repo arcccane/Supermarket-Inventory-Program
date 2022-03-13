@@ -18,6 +18,45 @@ def algorithm(seq,z):
         return False
     return True
 
+# QUESTION
+
+# This challenge question will test you on the design and implementation of an efficient algorithm to solve the following problem.
+
+# Given the following:
+# i.	A sequence of positive integers, SEQ,  sorted in strictly increasing order (i.e. all the integers are distinct), and
+# ii.	a positive integer Z
+
+# Design and implement an algorithm with Python to check all pairs of integers X and Y in the sorted sequence such that X + Y = Z.
+
+# (NOTE: A brute-force algorithm that compares all possible pairs in the sorted sequence and check if they sum up to equal to Z will work. However, using this approach will only give you a minimal score.)
+
+# For example, if SEQ and Z are provided to your program as follow:
+
+# SEQ:
+# 2	3	5	7	8	10	15	16	23	28
+
+# Z: 21
+
+# Then, your Python program should return:
+# •	X = 5
+# •	Y = 16
+# •	TRUE (since 5 + 16 = 21)
+
+
+# However, if SEQ and Z are provided to your program as follow:
+
+# SEQ:
+# 2	3	5	7	8	10	15	16	23	28
+
+# Z: 3
+
+# Then, your Python program should return:
+# •	X = not found
+# •	Y = not found
+# •	FALSE (since there does not exist two integers X and Y in SEQ, where  sum of X and Y = Z)
+
+
+# SOLUTION
 
 # theseq = [2,3,5,7,8,10,15,16,23,28]
 # z_value = 21

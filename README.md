@@ -31,10 +31,8 @@ b.	Design a menu for the application to allow the user to perform the following:
 
 c.	Complete the (Add, Update, Remove and Display) operations for the inventory application
 
-
 Stock Inventory – Search and Sort Algorithms (10%)
 Add the following features to the stock inventory application.
-
 
 d.	Complete the Sort item option. Student must implement 3 sorting algorithms. They are Bubble, Selection and Insertion Sort algorithms to sort the items in your stock inventory based on a sort key e.g. item selling price, item stock level, etc. Student can decide on which sort key to apply.
 
@@ -42,7 +40,8 @@ e.	Complete the Search item option. Student will apply 2 search algorithms. They
 
 f.	Student may add in bonus features such as exception handling, advanced algorithms etc
 
-(NOTE: You would need to apply knowledge from the practical sessions to complete these functions) 
+(NOTE: You would need to apply knowledge from the practical sessions to complete these functions)
+
 Part 2:  Challenge Question on Algorithm (10%)
 
 This challenge question will test you on the design and implementation of an efficient algorithm to solve the following problem.

@@ -5,4 +5,5 @@ The application will allow the user to display, add, update and remove stock ite
 sorting of stock items, and other additional features that improve the usefulness of the application for the user.
 
 Part 1 is related to the development of a Stock Inventory application
+
 Part 2 is a challenge question on algorithm.

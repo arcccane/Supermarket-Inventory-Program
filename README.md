@@ -5,9 +5,10 @@
 There are 4 components (see a to d below) to this assignment: 
 
 a.	Part 1 - Stock Inventory – Basic features (5%)
+
 b.	Part 1 - Stock Inventory – Search and Sort Algorithms (10%)
+
 c.	Part 2 - Challenge Question on Algorithm (10%)
-d.	Part 1 and 2 – Technical Review (10%)
 
 Part 1 is related to the development of a Stock Inventory application
 Part 2 is a challenge question on algorithm.
@@ -21,12 +22,19 @@ Stock Inventory – Basic features (5%)
 a.	Design a suitable data structure (e.g. by making use of Python list, dictionary, objects, etc.) to manage the stock items in the fruits store. You are required to store the following stock item information: item index,  description, item selling price, item stock level and at least TWO OTHER item information of your choice. Each item will have the above attributes. The fruits store will store up to 20 different types of item.
 
 b.	Design a menu for the application to allow the user to perform the following:
+
 	Add items into the stock inventory
+
 	Update selected item
+
 	Remove items from the stock inventory
+
 	Display items in the stock inventory
+
 	Sort items
+
 	Search item
+
 	Exit Application
 
 c.	Complete the (Add, Update, Remove and Display) operations for the inventory application
